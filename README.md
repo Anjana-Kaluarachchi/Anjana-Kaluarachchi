@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 
-I’m a **Software Engineering Undergraduate** with a strong interest in building **modern, user-focused web and mobile applications**.  
-I enjoy working across the stack — from clean, responsive interfaces to reliable backend logic — and I learn best by building real projects.
+I’m a **Software Engineering Undergraduate** with a strong interest in building **modern, user focused web and mobile applications**.  
+I enjoy working across the stack from clean, responsive interfaces to reliable backend logic and I learn best by building real projects.
 
 - 🎓 **Degree:** BSE (Hons) in Software Engineering  
 - 🌐 **Web:** React, modern frontend tooling, full-stack fundamentals  
-- 📱 **Mobile:** Android (Java) application development  
-- 🔥 **Backend & Cloud:** Firebase, Firestore, Node.js basics  
+- 📱 **Mobile:** Android (React native) application development  
+- 🔥 **Backend & Cloud:** Firebase, Firestore,Supabase, Node.js basics  
 - 🌱 **Current Focus:** Strengthening React, system design basics, and scalable app architecture  
 
 ---
@@ -93,25 +93,11 @@ I enjoy working across the stack — from clean, responsive interfaces to reliab
   </tr>
 </table>
 
----
-
-### 📂 Featured Projects
-
-- **🗑️ Trash Point (Android App)**  
-  A recyclable waste collection system connecting sellers and buyers using Firebase, Firestore, and Google Maps API.
-
-- **💰 Expense Tracker (Web App)**  
-  A React-based expense tracking application with authentication, real-time data handling, and charts.
-
-- **🧪 Academic & Practice Builds**  
-  Focused projects exploring React concepts, Java backends, Firebase integration, and clean UI design.
-
----
 
 ### ⚡ A Little More About Me
 
 > I believe learning happens best through building.  
-> I value clean code, thoughtful UI, and systems that solve real problems — not just assignments.
+> I value clean code, thoughtful UI, and systems that solve real problems.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" />
